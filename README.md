@@ -38,18 +38,18 @@
 4. What is life cycle of a react component ?
 5. When to use class vs when to use function components in react ?
 ###### Context API
-######Redux 
-######Rreact Router Dom ( basic )
+###### Redux 
+###### Rreact Router Dom ( basic )
 
 ### TypeScript ( basics )
 
 ### Git
-clone
-pull
-push
-commit
-push
-stash
+clone, 
+pull, 
+push, 
+commit, 
+push, 
+stash, 
 
 ### Github
 ### Apps level
