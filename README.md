@@ -29,6 +29,7 @@
 13. Iterate Object using for-of loop
 14. Promise() concept
 15. fetch()
+16. basic DOM understanding
 
 
 ### React
